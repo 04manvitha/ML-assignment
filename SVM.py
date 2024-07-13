@@ -66,5 +66,19 @@ plt.show()
 
 
 
-![Screenshot 2024-07-13 182346](https://github.com/user-attachments/assets/7ee84c2b-f429-4eef-bd48-20c525bbc94b)
+OUTPUT: 
+
+SVM Classifier Accuracy: 0.7524752475247525
+Confusion Matrix:
+[[36 19]
+ [ 6 40]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.65      0.74        55
+           1       0.68      0.87      0.76        46
+
+    accuracy                           0.75       101
+   macro avg       0.77      0.76      0.75       101
+weighted avg       0.78      0.75      0.75       101
 
