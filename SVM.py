@@ -66,4 +66,5 @@ plt.show()
 
 
 
-"C:\Users\User\Pictures\Screenshots\svm decision boundary.png"
+![Screenshot 2024-07-13 182346](https://github.com/user-attachments/assets/7ee84c2b-f429-4eef-bd48-20c525bbc94b)
+
